@@ -1,0 +1,39 @@
+body {
+  padding: 20px;
+  background: #f3f3f3;
+}
+
+hr {
+  border-top: 1px solid #e3e3e3;
+}
+
+#string {
+  height: 100px;
+}
+
+#preview-html {
+  font-size: 50px;
+  padding: 20px;
+  display: inline-block;
+  max-width: 800px;
+  position: fixed;
+  left: -1000%;
+  top: -1000%;
+}
+
+#preview-image {
+  min-height: 50px;
+  border: 1px solid #eee;
+  background: #fff;
+  border-radius: 5px;
+  padding: 20px;
+  text-align: center;
+}
+
+#preview-image canvas {
+  display: none;
+}
+
+#preview-image img {
+  max-width: 100%;
+}

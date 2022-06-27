@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'KangxiDictU5377';
+    src: url('../../css/font/KangxiDictU5377.woff') format('woff'), url('../../css/font/KangxiDictU5377.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}

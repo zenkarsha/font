@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'PMingLiU';
+    src: url('PMingLiU.eot');
+    src: url('PMingLiU.eot?#iefix') format('embedded-opentype'),
+         url('PMingLiU.woff') format('woff'),
+         url('PMingLiU.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

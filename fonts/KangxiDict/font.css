@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'KangxiDict';
+    src: url('KangxiDict.eot');
+    src: url('KangxiDict.eot?#iefix') format('embedded-opentype'),
+         url('KangxiDict.woff') format('woff'),
+         url('KangxiDict.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

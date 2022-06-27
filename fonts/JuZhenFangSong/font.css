@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'JuZhenFangSong';
+    src: url('JuZhenFangSong.eot');
+    src: url('JuZhenFangSong.eot?#iefix') format('embedded-opentype'),
+         url('JuZhenFangSong.woff') format('woff'),
+         url('JuZhenFangSong.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
